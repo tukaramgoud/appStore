@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.app-list-item {
+  padding: 20px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 15px;
+}
+.app-image-sizing {
+  height: 100px;
+}
